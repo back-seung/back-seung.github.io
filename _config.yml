@@ -1,0 +1,14 @@
+# Example Site settings
+
+header_pages:
+  - root.md
+  - workout.md
+
+style: hacker
+
+google_analytics: G-2D4VW5R53Q
+title: 'dev blog'
+footer: seunghan's personal Blog.
+
+plugins:
+  - jekyll-seo-tag
